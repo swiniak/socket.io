@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/socketio/socket.io"
+    "url": "git://github.com/swiniak/socket.io"
   },
   "scripts": {
     "test": "gulp test"
@@ -47,6 +47,10 @@
     "supertest": "1.1.0"
   },
   "contributors": [
+    {
+      "name": "Andrzej Pasterczyk",
+      "email": "andrzej.pasterczyk@gmail.com"
+    },
     {
       "name": "Guillermo Rauch",
       "email": "rauchg@gmail.com"
